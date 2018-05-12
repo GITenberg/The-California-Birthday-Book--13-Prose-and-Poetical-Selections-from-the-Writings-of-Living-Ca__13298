@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '892'
     url: http://www.gutenberg.org/2009/agents/892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13298#The-California-Birthday-Book--13-Prose-and-Poetical-Selections-from-the-Writings-of-Living-Ca_
 gutenberg_issued: '2004-08-27'
 gutenberg_type: Text
 identifiers:
