@@ -1,0 +1,32 @@
+_repo: The-California-Birthday-Book--13-Prose-and-Poetical-Selections-from-the-Writings-of-Living-Ca__13298
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: James, George Wharton
+    alias: James, G. Wharton (George Wharton)
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '892'
+    url: http://www.gutenberg.org/2009/agents/892
+description: ''
+gutenberg_issued: '2004-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13298'
+  lccn: a 10001615
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- California'
+- !lcsh 'California -- Description and travel'
+- !lcsh 'California -- Poetry'
+- !lcsh 'Birthday books'
+- !lcc 'PS'
+title: "The California Birthday Book\r\nProse and Poetical Selections from the Writings\
+  \ of Living California Authors with a Brief Biographical Sketch of each"
+url: http://www.gutenberg.org/ebooks/13298
